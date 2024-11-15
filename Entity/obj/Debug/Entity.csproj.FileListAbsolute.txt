@@ -1,0 +1,6 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\Entity\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\Entity\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\Entity\obj\Debug\Entity.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\Entity\obj\Debug\Entity.pdb

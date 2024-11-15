@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\bin\Debug\CommandProducto.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\bin\Debug\CommandProducto.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\bin\Debug\CommandProducto.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\obj\Debug\CommandProducto.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\obj\Debug\CommandProducto.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\obj\Debug\CommandP.C3BE05F4.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\obj\Debug\CommandProducto.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CommandPatron\CommandProducto\obj\Debug\CommandProducto.pdb
